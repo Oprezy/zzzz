@@ -82,27 +82,32 @@ error_list = []
 def formula(head_list, child_id):
     # print(child_id)
     if child_id == 0:
-        print("Checking New lock... .")
+        pass
+        # print("Checking New lock... .")
     else:
+        parent_against = head_list[child_id-2]
         against = head_list[child_id-1]
         current = head_list[child_id]
-        if child_id == len(head_list)-1:
-            pass
-        else:
-            next = head_list[child_id+1]
         against_amount = against["amount"]
         current_amount = current["amount"]
         current_balance = current["balance"]
         against_balance = against["balance"]
-
         key = against_balance+current_amount
+        if child_id == len(head_list)-1:
+            pass
+        else:
+            next = head_list[child_id+1]
+
         if round(key, 1) == round(current_balance, 1):
             # print(child_id, "passed")
             pass
         else:
-            print(child_id, "failed")
+            # print(child_id, "failed")
+            # print(current)
+            if parent_against["balance"] + current_amount == current_balance:
+                print("caught")
             # preparing report...
-            report = [against, current, next]
+            report = [parent_against, against, current, next]
             error_list.append(report)
     # print(error_list)
 
@@ -117,11 +122,11 @@ for head_id in range(len(major_list)):
     for child_id in range(len(head_list)):
         # print(child_id)
         formula(head_list, child_id)
-    print("stop")
+    # print("stop")
 
     
-# process result
-for i in error_list:
-    for items in i:
-        print(items)
-    print("next...")
+# # # process result
+# for i in error_list:
+#     for items in i:
+#         print(items)
+#     print("next...")

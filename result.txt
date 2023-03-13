@@ -1,0 +1,1016 @@
+30 passed
+31
+31 passed
+32
+32 passed
+33
+33 passed
+34
+34 passed
+35
+35 passed
+36
+36 passed
+37
+37 passed
+38
+38 passed
+39
+39 passed
+40
+40 passed
+41
+41 passed
+42
+42 passed
+43
+43 passed
+44
+44 passed
+45
+45 passed
+46
+46 passed
+47
+47 passed
+48
+48 passed
+49
+49 passed
+50
+50 passed
+51
+51 passed
+52
+52 passed
+53
+53 passed
+54
+54 passed
+55
+55 passed
+56
+56 passed
+57
+57 passed
+58
+58 passed
+59
+59 passed
+60
+60 passed
+61
+61 passed
+62
+62 passed
+63
+63 passed
+stop
+0
+Checking New lock... .
+1
+1 passed
+2
+2 passed
+3
+3 passed
+4
+4 passed
+5
+5 passed
+stop
+0
+Checking New lock... .
+1
+1 passed
+2
+2 passed
+3
+3 passed
+4
+4 passed
+5
+5 passed
+6
+6 passed
+7
+7 passed
+8
+8 passed
+9
+9 passed
+10
+10 passed
+11
+11 passed
+12
+12 passed
+13
+13 passed
+14
+14 passed
+15
+15 passed
+16
+16 passed
+17
+17 passed
+18
+18 passed
+19
+19 passed
+20
+20 passed
+21
+21 passed
+22
+22 passed
+23
+23 passed
+24
+24 passed
+25
+25 passed
+26
+26 passed
+27
+27 passed
+28
+28 passed
+29
+29 passed
+30
+30 passed
+31
+31 passed
+32
+32 passed
+33
+33 passed
+34
+34 passed
+35
+35 passed
+36
+36 passed
+37
+37 passed
+38
+38 passed
+stop
+0
+Checking New lock... .
+1
+1 passed
+2
+2 passed
+3
+3 passed
+4
+4 passed
+5
+5 passed
+6
+6 passed
+7
+7 passed
+8
+8 passed
+stop
+0
+Checking New lock... .
+1
+1 passed
+2
+2 passed
+3
+3 passed
+4
+4 passed
+5
+5 passed
+6
+6 passed
+7
+7 passed
+8
+8 passed
+9
+9 failed
+10
+10 passed
+stop
+0
+Checking New lock... .
+1
+1 passed
+2
+2 passed
+3
+3 passed
+4
+4 passed
+5
+5 passed
+6
+6 passed
+7
+7 passed
+8
+8 passed
+9
+9 passed
+10
+10 passed
+11
+11 passed
+12
+12 passed
+13
+13 passed
+14
+14 passed
+15
+15 passed
+16
+16 passed
+17
+17 passed
+18
+18 passed
+19
+19 passed
+20
+20 passed
+21
+21 passed
+22
+22 passed
+23
+23 passed
+24
+24 passed
+25
+25 passed
+26
+26 passed
+27
+27 passed
+28
+28 passed
+29
+29 passed
+30
+30 passed
+31
+31 passed
+32
+32 passed
+33
+33 passed
+34
+34 passed
+35
+35 passed
+36
+36 passed
+37
+37 passed
+38
+38 passed
+39
+39 passed
+40
+40 passed
+41
+41 passed
+42
+42 passed
+43
+43 passed
+44
+44 passed
+45
+45 passed
+46
+46 passed
+47
+47 passed
+48
+48 passed
+49
+49 passed
+50
+50 passed
+51
+51 passed
+52
+52 passed
+53
+53 passed
+54
+54 passed
+55
+55 passed
+56
+56 passed
+57
+57 passed
+58
+58 passed
+59
+59 passed
+60
+60 passed
+61
+61 passed
+62
+62 passed
+63
+63 passed
+64
+64 passed
+65
+65 passed
+66
+66 passed
+67
+67 passed
+68
+68 passed
+69
+69 passed
+70
+70 passed
+71
+71 passed
+72
+72 passed
+stop
+0
+Checking New lock... .
+1
+1 passed
+2
+2 passed
+3
+3 passed
+4
+4 passed
+5
+5 passed
+6
+6 passed
+7
+7 passed
+8
+8 passed
+9
+9 passed
+10
+10 passed
+11
+11 passed
+12
+12 passed
+13
+13 passed
+14
+14 passed
+15
+15 passed
+16
+16 passed
+17
+17 passed
+18
+18 passed
+19
+19 passed
+20
+20 passed
+21
+21 passed
+22
+22 passed
+23
+23 passed
+24
+24 passed
+25
+25 passed
+26
+26 passed
+27
+27 passed
+28
+28 passed
+29
+29 passed
+30
+30 passed
+31
+31 passed
+32
+32 passed
+33
+33 passed
+34
+34 passed
+35
+35 passed
+36
+36 passed
+37
+37 passed
+38
+38 passed
+39
+39 passed
+40
+40 passed
+41
+41 passed
+42
+42 passed
+43
+43 passed
+44
+44 passed
+45
+45 passed
+46
+46 passed
+47
+47 passed
+48
+48 passed
+49
+49 passed
+50
+50 passed
+51
+51 passed
+52
+52 passed
+53
+53 passed
+54
+54 passed
+55
+55 passed
+56
+56 passed
+57
+57 passed
+58
+58 passed
+59
+59 passed
+60
+60 passed
+61
+61 passed
+62
+62 passed
+63
+63 passed
+64
+64 passed
+65
+65 passed
+66
+66 passed
+67
+67 passed
+68
+68 passed
+69
+69 passed
+70
+70 passed
+71
+71 passed
+72
+72 passed
+73
+73 passed
+74
+74 passed
+75
+75 passed
+76
+76 passed
+77
+77 passed
+78
+78 passed
+79
+79 passed
+80
+80 passed
+81
+81 passed
+82
+82 passed
+83
+83 passed
+84
+84 passed
+85
+85 passed
+86
+86 passed
+87
+87 passed
+88
+88 passed
+89
+89 passed
+90
+90 passed
+stop
+0
+Checking New lock... .
+1
+1 passed
+2
+2 passed
+3
+3 passed
+4
+4 passed
+5
+5 passed
+6
+6 passed
+7
+7 passed
+8
+8 passed
+9
+9 passed
+10
+10 passed
+11
+11 passed
+12
+12 passed
+13
+13 passed
+14
+14 passed
+15
+15 passed
+16
+16 passed
+17
+17 passed
+18
+18 passed
+19
+19 passed
+20
+20 passed
+21
+21 passed
+22
+22 passed
+23
+23 passed
+24
+24 passed
+25
+25 passed
+26
+26 passed
+27
+27 passed
+28
+28 passed
+29
+29 passed
+30
+30 passed
+31
+31 passed
+32
+32 passed
+33
+33 passed
+34
+34 passed
+35
+35 passed
+36
+36 passed
+37
+37 passed
+38
+38 passed
+39
+39 passed
+40
+40 passed
+41
+41 passed
+42
+42 passed
+43
+43 passed
+44
+44 passed
+45
+45 passed
+46
+46 passed
+47
+47 passed
+48
+48 passed
+49
+49 passed
+50
+50 passed
+51
+51 passed
+52
+52 passed
+53
+53 passed
+54
+54 passed
+55
+55 passed
+56
+56 passed
+57
+57 passed
+58
+58 passed
+59
+59 passed
+60
+60 passed
+61
+61 passed
+62
+62 passed
+63
+63 passed
+64
+64 passed
+65
+65 passed
+66
+66 passed
+67
+67 passed
+68
+68 passed
+69
+69 passed
+70
+70 passed
+71
+71 passed
+72
+72 passed
+73
+73 passed
+74
+74 passed
+75
+75 passed
+76
+76 passed
+77
+77 passed
+78
+78 passed
+79
+79 passed
+80
+80 passed
+81
+81 passed
+82
+82 passed
+83
+83 passed
+84
+84 passed
+85
+85 passed
+86
+86 passed
+87
+87 passed
+88
+88 passed
+89
+89 passed
+90
+90 passed
+91
+91 passed
+92
+92 passed
+93
+93 passed
+94
+94 passed
+95
+95 passed
+96
+96 passed
+97
+97 passed
+98
+98 passed
+99
+99 passed
+stop
+0
+Checking New lock... .
+1
+1 passed
+2
+2 passed
+3
+3 passed
+4
+4 passed
+5
+5 passed
+6
+6 passed
+7
+7 passed
+8
+8 passed
+9
+9 passed
+10
+10 passed
+11
+11 passed
+12
+12 passed
+13
+13 passed
+14
+14 passed
+15
+15 passed
+16
+16 passed
+17
+17 passed
+18
+18 passed
+19
+19 passed
+20
+20 passed
+21
+21 passed
+22
+22 passed
+23
+23 passed
+24
+24 passed
+25
+25 passed
+26
+26 passed
+27
+27 passed
+28
+28 passed
+29
+29 passed
+30
+30 passed
+31
+31 passed
+32
+32 passed
+33
+33 passed
+34
+34 passed
+35
+35 passed
+36
+36 passed
+37
+37 passed
+38
+38 passed
+39
+39 passed
+40
+40 passed
+41
+41 passed
+42
+42 passed
+43
+43 passed
+44
+44 passed
+45
+45 passed
+46
+46 passed
+47
+47 passed
+48
+48 passed
+49
+49 passed
+50
+50 passed
+51
+51 passed
+52
+52 passed
+53
+53 passed
+54
+54 passed
+55
+55 passed
+56
+56 passed
+57
+57 passed
+58
+58 passed
+59
+59 passed
+60
+60 passed
+61
+61 passed
+62
+62 passed
+63
+63 passed
+64
+64 passed
+65
+65 passed
+66
+66 passed
+67
+67 passed
+68
+68 passed
+69
+69 passed
+70
+70 passed
+71
+71 passed
+72
+72 passed
+73
+73 passed
+stop
+0
+Checking New lock... .
+1
+1 passed
+2
+2 passed
+3
+3 passed
+4
+4 passed
+5
+5 passed
+6
+6 passed
+7
+7 passed
+8
+8 passed
+9
+9 passed
+10
+10 passed
+11
+11 passed
+12
+12 passed
+13
+13 passed
+14
+14 passed
+15
+15 passed
+16
+16 failed
+17
+17 passed
+18
+18 passed
+19
+19 passed
+20
+20 passed
+21
+21 passed
+22
+22 passed
+23
+23 passed
+24
+24 passed
+25
+25 passed
+26
+26 passed
+27
+27 passed
+28
+28 passed
+29
+29 passed
+30
+30 passed
+31
+31 passed
+32
+32 passed
+33
+33 passed
+34
+34 passed
+35
+35 passed
+36
+36 passed
+37
+37 passed
+38
+38 passed
+39
+39 passed
+40
+40 passed
+41
+41 passed
+42
+42 passed
+43
+43 passed
+44
+44 passed
+45
+45 passed
+46
+46 passed
+47
+47 passed
+48
+48 passed
+49
+49 passed
+50
+50 passed
+51
+51 passed
+52
+52 passed
+53
+53 passed
+54
+54 passed
+55
+55 passed
+56
+56 passed
+57
+57 passed
+58
+58 passed
+59
+59 passed
+60
+60 passed
+61
+61 passed
+62
+62 passed
+63
+63 passed
+64
+64 passed
+65
+65 passed
+stop
+cryptoprezzy@Preciouss-MBP jotter % 
